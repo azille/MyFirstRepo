@@ -1,2 +1,7 @@
 Mainly for testing purposes.
+<<<<<<< HEAD
 Another test.
+=======
+Add a line.
+>>>>>>> 945d1bb80a1c8e0c233a71ca632f7119a72ee169
+Commit test
